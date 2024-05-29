@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533828826062",
+    "project_id": "achieve-it-36478",
+    "storage_bucket": "achieve-it-36478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533828826062:android:742b2c482759ae0201f19f",
+        "android_client_info": {
+          "package_name": "com.example.achieve_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj84zzSAVzej-ByDSacvEggUAHeW6hv5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
